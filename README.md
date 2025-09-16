@@ -1,1 +1,1 @@
-# salactic.github.io
+[salactic](https://github.com/salactic)
